@@ -1,3 +1,2 @@
 # Sales-detail
-Excel Project
-I have created a sales detail dashboard.
+I have created a sales detail dashboard in Excel.
